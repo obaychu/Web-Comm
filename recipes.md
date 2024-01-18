@@ -55,7 +55,7 @@ Ingredients:
 - 1 box of spaghetti
 - 1 pound extra lean ground beef
 - 1/2 cup bread crumbs
-- 1/4 cup milk
+- 1-4 cup of skim milk 
 - 1/4 cup grated Parmesan cheese
 - 1 egg
 - onion chopped
@@ -84,7 +84,8 @@ Ingredients:
 - Lettuce
 - Tomato
 - Low Fat Mayonnaise
-- Siracha sauce 
+-  1 tbsp Siracha sauce 
+- condiments 
 
 Instructions:
 1. Preheat grill to medium-high heat.
