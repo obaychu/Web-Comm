@@ -59,10 +59,11 @@ Ingredients:
 - 1/4 cup grated Parmesan cheese
 - 1 egg
 - onion chopped
-- 4 cloves garlic, minced
+- challot chopped
+- 3 cloves garlic, minced
 - Salt and pepper to taste
-- 1 can of chopped tomatoes 
-- 1 tablespoon of tomato paste. 
+- 2 cans of chopped tomatoes 
+- 2 tablespoons of tomato paste. 
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -118,3 +119,25 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Pumpkin Borwnies 
+
+Ingredients: 
+- 3/4 cup almond butter (or other natural nut butter)
+- 3/4 cup canned pumpkin puree
+- 2 eggs
+- 1/2 cup maple syrup or honey 
+- 1 tsp vanilla
+- 1/2 cup cocoa powder
+- 1/2 tsp baking soda
+- pinch of salt
+- 1/2 cup chocolate chips
+
+Instructions: 
+1. Preheat oven to 350F and prepare a 8×8 baking dish with grease or parchment paper. 
+2. In a large bowl, mix together almond butter and pumpkin.
+3. Whisk in the eggs, then add the maple syrup and vanilla.
+4. Add cocoa powder, baking soda, and salt, and stir till combined.
+5. Add in chocolate chips.
+6. Pour into pan and bake for 22-25 minutes or until toothpick comes out clean. Different size pans will yield different baking times.
+7. Let cool before serving (For topping, melt chocolate chips in microwave with 1 tsp coconut oil)
